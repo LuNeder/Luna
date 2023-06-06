@@ -1,0 +1,2 @@
+# Luna
+Calcula o campo magnético B em T a partir de cada corrente em mA, para uma bobina de 150,5mm de comprimento e 760 espiras
